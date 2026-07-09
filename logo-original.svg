@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 96" role="img" aria-labelledby="t d">
+  <title id="t">Hamagawa</title><desc id="d">Original Hamagawa wordmark style</desc>
+  <g fill="#0b0d10">
+    <path d="M8 24h78L65 45H29z"/>
+    <path d="M31 49h31L51 60H42z"/>
+    <path d="M61 49h39L78 71H48z"/>
+    <path d="M94 24h30l-18 18H77z"/>
+  </g>
+  <text x="138" y="67" fill="#0b0d10" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="55" font-weight="900" font-style="italic" letter-spacing="-2">HAMAGAWA</text>
+</svg>
